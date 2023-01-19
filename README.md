@@ -1,2 +1,3 @@
 # networkquality-self-service
-This will allow you to run the macOS built-in networkquality tool via Jamf Self Service
+This script will allow you to run the built-in macOS networkquality tool via Jamf Self Service.
+Please note that this utility will only run on macOS Monterey and above.
